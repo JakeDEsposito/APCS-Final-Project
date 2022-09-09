@@ -20,12 +20,16 @@ Here are a list of goals that I had in mind for this project.
 
 ### Accomplished Goals:
 
-Make a top down shooter game
-Make bots to play against
-Make a map to play on
-Make random spawns
+- Make a top down shooter game
+- Make bots to play against
+- Make a map to play on
+- Make random spawns
 
-### Failed Goals:
+### Uncompleted Goals:
 
-Multiplayer
-Audio
+- Multiplayer
+- Audio
+
+### Final Words
+
+I had a lot of fun with this project and I was able to learn a lot about what goes into making a game and game engine. Thank you to [Game With Gabe](https://www.youtube.com/c/GamesWithGabe) for making awesome YouTube tutorials. I really wouldn't have been able to accomplish what I did without him.
